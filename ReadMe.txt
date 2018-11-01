@@ -1,3 +1,9 @@
+The project is currently under development. The first module, Object detection, has been completed. 
+
+Next Module: Distance Estimation
+
+
+
 Libraries to be installed berfore:
 
 
