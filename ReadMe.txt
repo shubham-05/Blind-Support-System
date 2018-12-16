@@ -1,6 +1,6 @@
-The project is currently under development. The first module, Object detection, has been completed. 
+The project is currently under development. The Object detection, Distance Estimation and Face Recognition has been completed. 
 
-Next Module: Distance Estimation
+Next Module: Speech to Text Conversion
 
 
 
