@@ -1,4 +1,4 @@
-The project is currently under development. The Object detection, Distance Estimation and Face Recognition has been completed. 
+The project is currently under development. The Object detection, Distance Estimation and Face Recognition has been completed. A module for providing auditory output has meed integrated to the project.
 
 Next Module: Speech to Text Conversion
 
